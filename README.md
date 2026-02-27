@@ -33,4 +33,5 @@ This script collects:
 - AD Info
 
 Output: CSV report generated in the user directory.
+
 OUTPUT_CSV="Linux_Health_Check_Report_${TIMESTAMP}.csv"
